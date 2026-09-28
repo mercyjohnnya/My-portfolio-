@@ -1,0 +1,200 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background:#e6f0fa;
+}
+
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.bar{
+    font-size: 2rem;
+}
+
+.hero{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroimg{
+    width: 300px;
+}
+
+.texts{
+    padding: 25px;
+}
+
+.para1{
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+.para2{
+    font-size: 2.3rem;
+    font-weight: 800;
+    margin-top: 20px;
+    line-height: 40px;
+}
+
+.para3{
+    margin-top:30px;
+}
+
+.passion{
+    text-align: center;
+    margin-top:60px;
+    font-size:1.6rem;
+    color: #2d3436;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding:25px;
+    gap:30px;
+}
+
+.card1{
+    background: #ffffff;
+    padding: 40px 20px;
+    width: 280px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05)
+}
+
+.card-icon{
+    width: 70px;
+    height: 70px;
+    margin-bottom:25px;
+}
+
+.card-title{
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.card-sub{
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color:#636872;
+}
+
+h2{
+    margin-top: 80px;
+    font-size: 2.2rem;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.icon-container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.face{
+    width:100px;
+    height:100px;
+    background: #4b6fff;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    font-size: 40px;
+    color: white;
+    border-radius: 40% 60% 70% 30%/ 40% 50% 60% 80%;
+}
+
+.what{
+    width:100px;
+    height:100px;
+    background: #2fd366;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    font-size: 40px;
+    color: white;
+    border-radius: 40% 60% 70% 30%/ 40% 50% 60% 80%;
+}
+
+.insta{
+    width:100px;
+    height:100px;
+    background: #e4405f;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    font-size: 40px;
+    color: white;
+    border-radius: 40% 60% 70% 30%/ 40% 50% 60% 80%;
+}
+
+.link{
+    width:100px;
+    height:100px;
+    background: #0a66c2;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    font-size: 40px;
+    color: white;
+    border-radius: 40% 60% 70% 30%/ 40% 50% 60% 80%;
+}
+
+.git{
+    width:100px;
+    height:100px;
+    background: #181717;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    font-size: 40px;
+    color: white;
+    border-radius: 40% 60% 70% 30%/ 40% 50% 60% 80%;
+}
+
+.foot{
+    background: #0a66c2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top:10px;
+}
+
+.p1{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: white;
+}
